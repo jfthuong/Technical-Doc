@@ -1,0 +1,20 @@
+= ArgParse (Practice)
+Command line and options parser
+:source-highlighter: pygments
+:pygments-style: manni
+:source-language: python
+:icons: font
+:toc: left
+
+== Purpose
+
+This page provides some practice to learn better about ArgParse.
+
+== Exercise #1
+
+Blabla bla
+
+[source]
+----
+include::test.py[]
+----
